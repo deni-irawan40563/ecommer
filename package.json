@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3",
+    "vue": "^3.0.5",
+    "vue-carousel": "^0.18.0",
+    "vue-currency-filter": "^5.2.0",
+    "vue-money-format": "^1.2.1",
+    "vue-owl-carousel2": "^2.0.7",
+    "vue3-carousel": "^0.1.21",
+    "vueperslides": "^3.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.3.7"
+  }
+}

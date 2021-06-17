@@ -1,0 +1,284 @@
+{
+  "bestSeller": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/product/5a9f6c861b8d3.jpg",
+      "name": "Corine de Farme Babycare Ultra Nourishing Cream 100 ml ED: 10/21",
+      "store": "Corine de Farme",
+      "price": "Rp 210.000",
+      "discPrice": "Rp 105.000",
+      "disc": 50,
+      "star": 5
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/product/on-100-whey-gold-standard-5lb-double-rich-chocolate-free-1lb-shaker-29-1623819621.jpg",
+      "name": "ON 100% WHEY Gold Standard (5lb) Double Rich Chocolate (free 1lb + shaker)",
+      "store": "Optimum Nutrition",
+      "price": "Rp 2.100.000",
+      "discPrice": "Rp 990.000",
+      "disc": 20,
+      "star": 4
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/product/manuka-health-lozenges-mgo-400-blackcurrant-21-1614240713.jpg",
+      "name": "Manuka Health Lozenges MGO 400+ Blackcurrant",
+      "store": "Manuka Health",
+      "price": "Rp 990.000",
+      "discPrice": "Rp 792.000",
+      "disc": 20,
+      "star": 3
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/product/manuka-farm-mgs-16-250-gr-81-1612163985.jpg",
+      "name": "Manuka Farm MGS 16+ 250 gr",
+      "store": "Manuka Farm",
+      "price": "Rp 155.000",
+      "discPrice": "Rp 139.500",
+      "disc": 10,
+      "star": 5
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/product/5ed5b8ace07a4.jpg",
+      "name": "Bio Oil Dry Skin Gel 200 ml",
+      "store": "Bio Oil",
+      "price": "Rp 570.000",
+      "discPrice": "Rp 456.000",
+      "disc": 20,
+      "star": 2
+    }
+  ],
+  "flashSale": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/product/5efd9b19bb544.jpg",
+      "name": "Little Twig Fragrance Baby Wash 250 ml",
+      "store": "LITTLE TWIG",
+      "price": "Rp 277.900",
+      "discPrice": "Rp 138.950",
+      "disc": 50,
+      "star": 4
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/product/on-100-whey-gold-standard-5lb-double-rich-chocolate-free-1lb-shaker-29-1623819621.jpg",
+      "name": "ON 100% WHEY Gold Standard (5lb) Double Rich Chocolate (free 1lb + shaker)",
+      "store": "Optimum Nutrition",
+      "price": "Rp 2.100.000",
+      "discPrice": "Rp 990.000",
+      "disc": 20,
+      "star": 4
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/product/manuka-health-lozenges-mgo-400-blackcurrant-21-1614240713.jpg",
+      "name": "Manuka Health Lozenges MGO 400+ Blackcurrant",
+      "store": "Manuka Health",
+      "price": "Rp 990.000",
+      "discPrice": "Rp 792.000",
+      "disc": 20,
+      "star": 3
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e26b6107b23c.jpg",
+      "name": "Kose Natusavon Cleansing Foam Chamomile & Pear 200 ml",
+      "store": "Kose Cosmeport",
+      "price": "Rp 280.000",
+      "discPrice": "Rp 140.000",
+      "disc": 50,
+      "star": 5
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/product/5ed5b8ace07a4.jpg",
+      "name": "Bio Oil Dry Skin Gel 200 ml",
+      "store": "Bio Oil",
+      "price": "Rp 570.000",
+      "discPrice": "Rp 456.000",
+      "disc": 20,
+      "star": 2
+    }
+  ],
+  "newProduct": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/product/558611c9d1b49.jpg",
+      "name": "Natures Plus acidophilus 90 Capsules ED: 10/21",
+      "store": "Natures Plus",
+      "price": "Rp 370.000",
+      "discPrice": "Rp 185.000",
+      "disc": 50,
+      "star": 1
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/product/5cb829b323955.jpg",
+      "name": "Corine de Farme Refreshing Moist Gel Cream 50 ml ED: 10/21",
+      "store": "Corine de Farme",
+      "price": "Rp 310.000",
+      "discPrice": "Rp 155.000",
+      "disc": 50,
+      "star": 5
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/product/5cc82913cede0.jpg",
+      "name": "Natural Factors - S'Digest (Soothe Digest) 90 Tablets ED: 7/21",
+      "store": "Natural Factors",
+      "price": "Rp 285.000",
+      "discPrice": "Rp 57.000",
+      "disc": 80,
+      "star": 4
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/product/natural-factors-wellbetx-complete-diabetic-60-tablets-ed-1021-free-pill-box-42-1614659399.jpg",
+      "name": "Natural Factors WellbetX Complete Diabetic 60 Tablets ED: 10/21",
+      "store": "Natural Factors",
+      "price": "Rp 310.000",
+      "discPrice": "Rp 155.000",
+      "disc": 50,
+      "star": 0
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e26b6107b23c.jpg",
+      "name": "Kose Natusavon Cleansing Foam Chamomile & Pear 200 ml",
+      "store": "Kose Cosmeport",
+      "price": "Rp 280.000",
+      "discPrice": "Rp 140.000",
+      "disc": 50,
+      "star": 4
+    }
+  ],
+  "featured": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e6a0e7b19180.jpg",
+      "name": "Dr. Bronners Organic Liquid Soap 473 ml Rose",
+      "store": "Dr. Bronners",
+      "price": "Rp 277.900",
+      "discPrice": "Rp 236.215",
+      "disc": 15,
+      "star": 5
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e561bdd3f46c.jpg",
+      "name": "Thayers Rose Petal Facial Toner 89 ml",
+      "store": "Thayers",
+      "price": "Rp 115.000",
+      "discPrice": "null",
+      "disc": 0,
+      "star": 5
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/product/5f56fd55a97b1.jpg",
+      "name": "Casa Grata Crackers Herbs Crackers",
+      "store": "Casa Grata",
+      "price": "Rp 42.000",
+      "discPrice": "null",
+      "disc": 0,
+      "star": 5
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/product/5f72ef21104b5.jpg",
+      "name": "Oh K! Peppermint Foot Mask 1 sheet",
+      "store": "Manuka Farm",
+      "price": "Rp 74.000",
+      "discPrice": "Rp 59.200",
+      "disc": 20,
+      "star": 4
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/product/5f4f88fd8325e.jpg",
+      "name": "Kose Je LAime Amino Algae Hair Mask Deep Moist 230 gr",
+      "store": "Bio Oil",
+      "price": "Rp 320.000",
+      "discPrice": "Rp 224.000",
+      "disc": 30,
+      "star": 5
+    }
+  ],
+  "exclusive": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e9d78058e334.jpg",
+      "name": "Wellness Excell C + Quercetin 30 Tablets",
+      "store": "Wellness",
+      "price": "Rp 165.000",
+      "discPrice": "Rp 132.000",
+      "disc": 20,
+      "star": 4
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/product/5e561bdd3f46c.jpg",
+      "name": "Thayers Rose Petal Facial Toner 89 ml",
+      "store": "Thayers",
+      "price": "Rp 115.000",
+      "discPrice": "null",
+      "disc": 0,
+      "star": 5
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/product/5f56fd55a97b1.jpg",
+      "name": "Casa Grata Crackers Herbs Crackers",
+      "store": "Casa Grata",
+      "price": "Rp 42.000",
+      "discPrice": "null",
+      "disc": 0,
+      "star": 5
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/product/59d4c5dc3f37b.jpg",
+      "name": "Dynamic Health Apple Cider Vinegar 473 ml",
+      "store": "Manuka Farm",
+      "price": "Rp 125.000",
+      "discPrice": "Rp 106.250",
+      "disc": 20,
+      "star": 4
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/product/5f4f88fd8325e.jpg",
+      "name": "Kose Je LAime Amino Algae Hair Mask Deep Moist 230 gr",
+      "store": "Bio Oil",
+      "price": "Rp 320.000",
+      "discPrice": "Rp 224.000",
+      "disc": 30,
+      "star": 5
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "img": "https://asset.naturalfarm.id/uploads/sliderBanner/gift-cl-59-1623136135.jpg"
+    },
+    {
+      "id": 2,
+      "img": "https://asset.naturalfarm.id/uploads/sliderBanner/bundling-mh-54-1623205202.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://asset.naturalfarm.id/uploads/sliderBanner/brand-week-on-52-1623740229.jpg"
+    },
+    {
+      "id": 4,
+      "img": "https://asset.naturalfarm.id/uploads/sliderBanner/shopping-on-budget-31-1623397072.jpg"
+    },
+    {
+      "id": 5,
+      "img": "https://asset.naturalfarm.id/uploads/sliderBanner/mooimom-34-1623901463.jpg"
+    }
+  ]
+}
